@@ -1,8 +1,6 @@
 # Spring MVC Skeleton
 
-Spring Web MVC ready to go.
-  A simple skeleton structure that could be used to begin prototyping application. 
-Created using...
+Spring Web MVC ready to go. A simple skeleton structure that could be used to begin prototyping an application. Created using...
 
 >  - Spring STS 3.7.0
 >  - Tomcat 8
