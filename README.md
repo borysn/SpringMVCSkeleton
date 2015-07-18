@@ -33,7 +33,7 @@ Spring Web MVC ready to go. A simple skeleton structure that could be used to be
 > 5. Deploy to Tomcat 8
 
 ### Notes 
-> Despite having access to various spring web mvc resources I still had some
+> Despite having access to various spring web mvc resources, I still had some
 issues putting together all the components for a running application on tomcat.
 Between various configuration conflicts, outdated information, and a few
 environment hiccups using the latest technologies, it was a nice learning
