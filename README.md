@@ -41,7 +41,7 @@ expereience. Big thanks to a few blogs out there that really helped.
 
 ### Resources Used
 > + spring docs
-> + mykong
+> + mkyong
 > + crunchify
 > + beginning spring
 > + stackoverflow <3
