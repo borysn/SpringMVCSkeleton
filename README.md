@@ -17,3 +17,18 @@ Spring Web MVC ready to go. A simple skeleton structure that could be used to be
 >   - jsp-api 2.2
 >   - taglibs-standard-impl 1.2.5
 >  - JQuery 1.11.3
+
+### Instructions
+> 1. Clone project
+>         $ git clone ...
+>            or
+>         download zip          
+> 2. Import contents into ide as maven project
+> 3. Update root context in project settings
+>          a. Right click on project
+>          b. select "properties"
+>          c. select "Web Project Settings"
+>          d. change context root from "springmvcskeleton" to "/"
+> 4. Maven build goals
+>           clean install
+> 5. Deploy to Tomcat 8
