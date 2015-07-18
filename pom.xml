@@ -95,7 +95,7 @@
 					<archive>
 						<manifestFile>src/main/webapp/META-INF/MANIFEST.MF</manifestFile>
 					</archive>
-					<warSourceDirectory>webapp</warSourceDirectory>
+					<warSourceDirectory>src/main/webapp</warSourceDirectory>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
 				</configuration>
 			</plugin>
