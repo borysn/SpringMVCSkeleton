@@ -1,0 +1,3 @@
+<%-- jstl defined resources --%>
+<c:url value="css/style.css" var="appStyle" />
+<c:url value="js/app.js" var="appJs" />
