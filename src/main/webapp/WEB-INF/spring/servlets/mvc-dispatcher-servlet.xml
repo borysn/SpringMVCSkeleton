@@ -17,9 +17,9 @@
     <!-- mvc config -->
     <mvc:default-servlet-handler />
     <mvc:annotation-driven />
-    <mvc:resources location="/resources/css/" mapping="css/**" />
-    <mvc:resources location="/resources/js/" mapping="js/**" />
-    <mvc:resources location="/resources/img/" mapping="img/**" />
+    <mvc:resources location="/resources/css/" mapping="/css/**" />
+    <mvc:resources location="/resources/js/" mapping="/js/**" />
+    <mvc:resources location="/resources/img/" mapping="/img/**" />
 	
 	<!-- bean config -->
 	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
