@@ -43,7 +43,7 @@ Spring Web MVC ready to go. A simple skeleton structure that could be used to be
 issues putting together all the components for a running application on tomcat.
 Between various configuration conflicts, outdated information, and a few
 environment hiccups using the latest technologies, it was a nice learning
-expereience. Big thanks to a few blogs out there that really helped. I saw a lot 
+experience. Big thanks to a few blogs out there that really helped. I saw a lot 
 of comments and threads around similar issues that I dealt with. Hope this helps
 someone else get started!
 
