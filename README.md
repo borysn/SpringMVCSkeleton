@@ -20,7 +20,7 @@ Spring Web MVC ready to go. A simple skeleton structure that could be used to be
 
 ### Instructions
 > 1. Clone project
->   * $ git clone git@github.com:BorysHN/SpringMVCSkeleton.git
+>   * `$ git clone git@github.com:BorysHN/SpringMVCSkeleton.git`
 >   * or download zip          
 > 2. Import contents into ide as maven project
 > 3. Update root context in project settings (eclipse)
