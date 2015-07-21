@@ -27,7 +27,7 @@ Spring Web MVC ready to go. A simple skeleton structure that could be used to be
 2. Add project to STS
     - File->Import->Maven->"Existing Maven Projects" 
 3. Download and add Tomcat 8 to STS servers
-    - [crunchify Tutorial](http://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/)
+    - [crunchify tutorial](http://crunchify.com/step-by-step-guide-to-setup-and-install-apache-tomcat-server-in-eclipse-development-environment-ide/)
 4. Change context root to "/" (without quotes)
     - [mkyong tutorial](http://www.mkyong.com/eclipse/eclipse-how-to-change-web-project-context-root/)
 5. Run project on Tomcat server
